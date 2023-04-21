@@ -1,0 +1,6 @@
+#!/bin/bash
+gcc -E $CFILE -o c^C 
+gcc -E SCFILE -o c^c
+gcc -E $CFILE -o c^C 
+clear
+gcc -E $CFILE -o c^c
